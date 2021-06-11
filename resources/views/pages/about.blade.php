@@ -6,5 +6,6 @@
     <body>
         <h1>About News Archive</h1>
         <p>This is a news archiving web app I am building in the <a href="https://selftaughtcoders.com/from-idea-to-launch">From Idea to Launch</a> course.</p>
+        <p>The app will be an analog to the Evernote archiving system.</p>
     </body>
 </html>
